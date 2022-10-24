@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nandu Kumar",
+      "email": "nandu@test.com",
+      "password": "123456",
+      "isAdmin": false
+    },
+    {
+      "id": 11,
+      "name": "Hari Narayan",
+      "email": "hari@test.com",
+      "password": "123456",
+      "isAdmin": true
+    },
+    {
+      "id": 4,
+      "name": "Preeti Kumari",
+      "email": "preeti@test.com",
+      "password": "123456",
+      "isAdmin": false
+    }
+  ],
+  "todos": [
+    {
+      "task": "monday",
+      "date": "12th Dec, 2022 12:21 PM",
+      "status": "In Progress",
+      "id": 1
+    },
+    {
+      "task": "tuesday",
+      "date": "12th Dec, 2022 2:12 PM",
+      "status": "Completed",
+      "id": 2
+    },
+    {
+      "task": "wednesday",
+      "date": "11th Feb, 2121 12:12 PM",
+      "status": "In Progress",
+      "id": 3
+    },
+    {
+      "task": "thursday",
+      "date": "4th Apr, 2012 5:42 PM",
+      "status": "Completed",
+      "id": 4
+    },
+    {
+      "task": "friday",
+      "date": "12th Feb, 2022 5:45 AM",
+      "status": "In Progress",
+      "id": 5
+    }
+  ]
+}
