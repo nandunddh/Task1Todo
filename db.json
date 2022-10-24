@@ -1,27 +1,4 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "name": "Nandu Kumar",
-      "email": "nandu@test.com",
-      "password": "123456",
-      "isAdmin": false
-    },
-    {
-      "id": 11,
-      "name": "Hari Narayan",
-      "email": "hari@test.com",
-      "password": "123456",
-      "isAdmin": true
-    },
-    {
-      "id": 4,
-      "name": "Preeti Kumari",
-      "email": "preeti@test.com",
-      "password": "123456",
-      "isAdmin": false
-    }
-  ],
   "todos": [
     {
       "task": "monday",
